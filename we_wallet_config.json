@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "whitelist": [],
+  "blacklist": [],
+  "network_config": {},
+  "messages_config": {
+    "message_expiration_ms": 1800000,
+    "update_messages_ms": 30000,
+    "max_messages": 100
+  },
+  "network_config": {
+      "mainnet": {
+        "code": "V",
+        "server": "https://carter.welocal.dev/node-0/",
+        "matcher": "",
+        "authServiceAddress": "https://carter.welocal.dev/authServiceAddress/",
+        "serviceToken": "4zgcvfCYhwTzfemJsTuQU9c7SCTe8vSFt8a5CAJ5G7AdzGaxNxKzVuH8Dzf8sest"
+      },
+  }
+}
