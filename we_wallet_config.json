@@ -2,7 +2,6 @@
   "version": 1,
   "whitelist": [],
   "blacklist": [],
-  "network_config": {},
   "messages_config": {
     "message_expiration_ms": 1800000,
     "update_messages_ms": 30000,
