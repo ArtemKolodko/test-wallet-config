@@ -2,11 +2,6 @@
   "version": 1,
   "whitelist": [],
   "blacklist": [],
-  "messages_config": {
-    "message_expiration_ms": 1800000,
-    "update_messages_ms": 30000,
-    "max_messages": 100
-  },
   "network_config": {
       "mainnet": {
         "code": "V",
